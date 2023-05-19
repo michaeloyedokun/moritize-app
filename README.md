@@ -1,2 +1,2 @@
 # monitize-k8
-Using Terraform to deploy K8 to EKS on AWS
+Deploying and configuring cloud environment on AWS using IAC tool, Terraform.
